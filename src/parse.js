@@ -112,8 +112,10 @@ function parseThread(selftext, meta = {}) {
     // pollute neither the distributor nor the title.
     const isRuntime = (s) => /^\d+h(\d+m)?$|^\d+m$/i.test(s);
     while (parts.length && isRuntime(parts[parts.length - 1])) parts.pop();
-    if (parts.length > 1) distributor = parts.pop();
+    // Pull the rating out first (standalone " - R" segment, or " -R" glued to the
+    // title) so a rating never gets mistaken for the distributor on odd entries.
     rating = extractRating(parts);
+    if (parts.length > 1) distributor = parts.pop();
     let title = parts.join(' - ').trim() || null;
 
     const placeholder = isPlaceholderTitle(title);

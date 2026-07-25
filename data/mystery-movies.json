@@ -1,22 +1,970 @@
 {
-  "generatedAt": "2026-07-25T18:22:13.623Z",
+  "generatedAt": "2026-07-25T20:50:52.205Z",
   "sources": [
     {
       "chain": "AMC",
-      "subreddit": "AMCsAList",
-      "threadId": "1v438bg",
-      "title": "AMC Screen Unseen Megathread - July 27 2026",
-      "url": "https://www.reddit.com/r/AMCsAList/comments/1v438bg/amc_screen_unseen_megathread_july_27_2026/"
+      "threadId": "1e4nbh7"
+    },
+    {
+      "chain": "AMC",
+      "threadId": "1hatoyh"
+    },
+    {
+      "chain": "AMC",
+      "threadId": "1ldli7x"
+    },
+    {
+      "chain": "AMC",
+      "threadId": "1ocy90r"
+    },
+    {
+      "chain": "AMC",
+      "threadId": "1sz6wre"
+    },
+    {
+      "chain": "AMC",
+      "threadId": "1v438bg"
     },
     {
       "chain": "Regal",
-      "subreddit": "RegalUnlimited",
-      "threadId": "1uuy1c0",
-      "title": "Monday Mystery Movie Megathread - July 27 2026",
-      "url": "https://www.reddit.com/r/RegalUnlimited/comments/1uuy1c0/monday_mystery_movie_megathread_july_27_2026/"
+      "threadId": "1cy5f7u"
+    },
+    {
+      "chain": "Regal",
+      "threadId": "1hg54fv"
+    },
+    {
+      "chain": "Regal",
+      "threadId": "1laxxeh"
+    },
+    {
+      "chain": "Regal",
+      "threadId": "1pe2otx"
+    },
+    {
+      "chain": "Regal",
+      "threadId": "1sypso4"
+    },
+    {
+      "chain": "Regal",
+      "threadId": "1uuy1c0"
     }
   ],
   "screenings": [
+    {
+      "chain": "AMC",
+      "number": 1,
+      "title": "Next Goal Wins",
+      "rating": "PG-13",
+      "distributor": "Searchlight",
+      "date": "2023-11-06",
+      "reportedRuntime": "1h49m",
+      "actualRuntime": "1h43m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-november-6-75135"
+    },
+    {
+      "chain": "AMC",
+      "number": 2,
+      "title": "American Fiction",
+      "rating": "R",
+      "distributor": "Amazon MGM",
+      "date": "2023-11-27",
+      "reportedRuntime": "2h",
+      "actualRuntime": "1h57m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-november-27-75309"
+    },
+    {
+      "chain": "AMC",
+      "number": 3,
+      "title": "The Boys In The Boat",
+      "rating": "PG-13",
+      "distributor": "Amazon MGM",
+      "date": "2023-12-11",
+      "reportedRuntime": "2h8m",
+      "actualRuntime": "2h4m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-december-11-75448"
+    },
+    {
+      "chain": "AMC",
+      "number": 4,
+      "title": "The Book of Clarence",
+      "rating": "PG-13",
+      "distributor": "Legendary",
+      "date": "2024-01-03",
+      "reportedRuntime": "2h13m",
+      "actualRuntime": "2h9m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-january-3-75689"
+    },
+    {
+      "chain": "AMC",
+      "number": 5,
+      "title": "Origin",
+      "rating": "PG-13",
+      "distributor": "Neon",
+      "date": "2024-01-08",
+      "reportedRuntime": "2h18m",
+      "actualRuntime": "2h21m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-january-8-75533"
+    },
+    {
+      "chain": "AMC",
+      "number": 6,
+      "title": "Out Of Darkness",
+      "rating": "R",
+      "distributor": "Bleecker Street",
+      "date": "2024-01-29",
+      "reportedRuntime": "1h30m",
+      "actualRuntime": "1h27m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-january-29-75764"
+    },
+    {
+      "chain": "AMC",
+      "number": 7,
+      "title": "Lisa Frankenstein",
+      "rating": "PG-13",
+      "distributor": "Focus/Universal",
+      "date": "2024-02-05",
+      "reportedRuntime": "1h45m",
+      "actualRuntime": "1h41m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-february-5-75690"
+    },
+    {
+      "chain": "AMC",
+      "number": 8,
+      "title": "Ordinary Angels",
+      "rating": "PG",
+      "distributor": "Lionsgate",
+      "date": "2024-02-19",
+      "reportedRuntime": "2h1m",
+      "actualRuntime": "1h56m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-february-19-75965"
+    },
+    {
+      "chain": "AMC",
+      "number": 9,
+      "title": "One Life",
+      "rating": "PG",
+      "distributor": "Bleecker Street",
+      "date": "2024-03-04",
+      "reportedRuntime": "1h46m",
+      "actualRuntime": "1h49m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-march-4-76103"
+    },
+    {
+      "chain": "AMC",
+      "number": 10,
+      "title": "Arthur The King",
+      "rating": "PG-13",
+      "distributor": "Lionsgate",
+      "date": "2024-03-11",
+      "reportedRuntime": "2h",
+      "actualRuntime": "1h47m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-march-11-76266"
+    },
+    {
+      "chain": "AMC",
+      "number": 11,
+      "title": "Sting",
+      "rating": "R",
+      "distributor": "Well Go USA",
+      "date": "2024-03-25",
+      "reportedRuntime": "1h45m",
+      "actualRuntime": "1h31m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-march-25-76439"
+    },
+    {
+      "chain": "AMC",
+      "number": 12,
+      "title": "The Ministry of Ungentlemanly Warfare",
+      "rating": "R",
+      "distributor": "Lionsgate",
+      "date": "2024-04-08",
+      "reportedRuntime": "2h13m",
+      "actualRuntime": "2h",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-april-8-76634"
+    },
+    {
+      "chain": "AMC",
+      "number": 13,
+      "title": "Spy X Family: White",
+      "rating": "PG-13",
+      "distributor": null,
+      "date": "Crunchyroll/Sony- Apr 15 2024",
+      "reportedRuntime": "2h3m",
+      "actualRuntime": "1h50m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-april-15-76440"
+    },
+    {
+      "chain": "AMC",
+      "number": 14,
+      "title": "Boy Kills World",
+      "rating": "R",
+      "distributor": "Lionsgate",
+      "date": "2024-04-22",
+      "reportedRuntime": "2h8m",
+      "actualRuntime": "1h51m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-april-22-76441"
+    },
+    {
+      "chain": "AMC",
+      "number": 15,
+      "title": "Babes",
+      "rating": "R",
+      "distributor": "NEON",
+      "date": "2024-05-13",
+      "reportedRuntime": "1h55m",
+      "actualRuntime": "1h49m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-may-13-76782"
+    },
+    {
+      "chain": "AMC",
+      "number": 16,
+      "title": "Ezra",
+      "rating": "R",
+      "distributor": "Bleecker Street",
+      "date": "2024-05-20",
+      "reportedRuntime": "1h45m",
+      "actualRuntime": "1h40m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-may-20-76899"
+    },
+    {
+      "chain": "AMC",
+      "number": 17,
+      "title": "Thelma",
+      "rating": "PG-13",
+      "distributor": "Magnolia",
+      "date": "2024-06-10",
+      "reportedRuntime": "1h39m",
+      "actualRuntime": "1h37m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-june-10-77153"
+    },
+    {
+      "chain": "AMC",
+      "number": 18,
+      "title": "The Bikeriders",
+      "rating": "R",
+      "distributor": "Focus",
+      "date": "2024-06-17",
+      "reportedRuntime": "2h3m",
+      "actualRuntime": null,
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-june-17-77155"
+    },
+    {
+      "chain": "AMC",
+      "number": 19,
+      "title": "Fly Me To The Moon",
+      "rating": "PG-13",
+      "distributor": "Apple",
+      "date": "2024-07-01",
+      "reportedRuntime": "2h20m",
+      "actualRuntime": "2h12m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-july-1-77344"
+    },
+    {
+      "chain": "AMC",
+      "number": 20,
+      "title": "Sing Sing",
+      "rating": "R",
+      "distributor": "A24",
+      "date": "2024-07-15",
+      "reportedRuntime": "1h54m",
+      "actualRuntime": "1h47m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-july-15-77449"
+    },
+    {
+      "chain": "AMC",
+      "number": 21,
+      "title": "Kneecap",
+      "rating": "R",
+      "distributor": "Sony",
+      "date": "2024-07-22",
+      "reportedRuntime": "1h53m",
+      "actualRuntime": "1h45m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-july-22-77557"
+    },
+    {
+      "chain": "AMC",
+      "number": 22,
+      "title": "Skincare",
+      "rating": "R",
+      "distributor": "IFC",
+      "date": "2024-08-12",
+      "reportedRuntime": "1h41m",
+      "actualRuntime": "1h34m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-august-12-77690"
+    },
+    {
+      "chain": "AMC",
+      "number": 23,
+      "title": "Slingshot",
+      "rating": "R",
+      "distributor": "Bleecker Street",
+      "date": "2024-08-26",
+      "reportedRuntime": "1h45m",
+      "actualRuntime": "1h49m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-august-26-77691"
+    },
+    {
+      "chain": "AMC",
+      "number": 24,
+      "title": "My Old Ass",
+      "rating": "R",
+      "distributor": "MGM",
+      "date": "2024-09-09",
+      "reportedRuntime": "1h41m",
+      "actualRuntime": "1h29m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-september-9-77946"
+    },
+    {
+      "chain": "AMC",
+      "number": 25,
+      "title": "White Bird",
+      "rating": "PG-13",
+      "distributor": "Lionsgate",
+      "date": "2024-09-30",
+      "reportedRuntime": "1h56m",
+      "actualRuntime": "2h",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-september-30-78102"
+    },
+    {
+      "chain": "AMC",
+      "number": 26,
+      "title": "Exhibiting Forgiveness",
+      "rating": "R",
+      "distributor": "Roadside",
+      "date": "2024-10-07",
+      "reportedRuntime": "2h3m",
+      "actualRuntime": "1h57m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-october-7-78306"
+    },
+    {
+      "chain": "AMC",
+      "number": 27,
+      "title": "Your Monster",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2024-10-21",
+      "reportedRuntime": "1h43m",
+      "actualRuntime": "1h42m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-october-21-78307"
+    },
+    {
+      "chain": "AMC",
+      "number": 28,
+      "title": "Bonhoeffer",
+      "rating": "PG-13",
+      "distributor": "Angel Studios",
+      "date": "2024-11-11",
+      "reportedRuntime": "2h18m",
+      "actualRuntime": "2h12m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-november-11-78308"
+    },
+    {
+      "chain": "AMC",
+      "number": 29,
+      "title": "Gladiator II",
+      "rating": "R",
+      "distributor": "Paramount",
+      "date": "2024-11-18",
+      "reportedRuntime": "2h30m",
+      "actualRuntime": "2h28m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-november-18-78663"
+    },
+    {
+      "chain": "AMC",
+      "number": 30,
+      "title": "September 5",
+      "rating": "R",
+      "distributor": "Paramount",
+      "date": "2024-12-09",
+      "reportedRuntime": "1h51m",
+      "actualRuntime": "1h35m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-december-9-78828"
+    },
+    {
+      "chain": "AMC",
+      "number": 31,
+      "title": "The Fire Inside",
+      "rating": null,
+      "distributor": null,
+      "date": "2024-12-16",
+      "reportedRuntime": "1h53m",
+      "actualRuntime": null,
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-december-16-78929"
+    },
+    {
+      "chain": "AMC",
+      "number": 32,
+      "title": "Better Man",
+      "rating": "R",
+      "distributor": "Paramount",
+      "date": "2025-01-06",
+      "reportedRuntime": "2h8m",
+      "actualRuntime": "2h15m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-january-6-78930"
+    },
+    {
+      "chain": "AMC",
+      "number": 33,
+      "title": "Companion",
+      "rating": "R",
+      "distributor": "Warner Bros.",
+      "date": "2025-01-27",
+      "reportedRuntime": "1h41m",
+      "actualRuntime": "1h37m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-january-27-79152"
+    },
+    {
+      "chain": "AMC",
+      "number": 34,
+      "title": "My Dead Friend Zoe",
+      "rating": "R",
+      "distributor": "Briarcliff Entertainment",
+      "date": "2025-02-17",
+      "reportedRuntime": "1h47m",
+      "actualRuntime": null,
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-february-17-79312"
+    },
+    {
+      "chain": "AMC",
+      "number": 35,
+      "title": "Last Breath",
+      "rating": "PG-13",
+      "distributor": "Focus Features",
+      "date": "2025-02-24",
+      "reportedRuntime": "1h35m",
+      "actualRuntime": "1h33m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-february-24-79313"
+    },
+    {
+      "chain": "AMC",
+      "number": 36,
+      "title": "Novocaine",
+      "rating": "R",
+      "distributor": "Paramount",
+      "date": "2025-03-03",
+      "reportedRuntime": "1h53m",
+      "actualRuntime": "1h50m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-march-3-79440"
+    },
+    {
+      "chain": "AMC",
+      "number": 37,
+      "title": "Magazine Dreams",
+      "rating": "R",
+      "distributor": "Briarcliff Entertainment",
+      "date": "2025-03-10",
+      "reportedRuntime": "2h",
+      "actualRuntime": "2h4m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-march-10-79567"
+    },
+    {
+      "chain": "AMC",
+      "number": 38,
+      "title": "The Penguin Lessons",
+      "rating": "PG-13",
+      "distributor": "Sony",
+      "date": "2025-03-17",
+      "reportedRuntime": "1h53m",
+      "actualRuntime": "1h50m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-march-17-79607"
+    },
+    {
+      "chain": "AMC",
+      "number": 39,
+      "title": "Drop",
+      "rating": "PG-13",
+      "distributor": "Universal",
+      "date": "2025-04-07",
+      "reportedRuntime": "1h50m",
+      "actualRuntime": "1h35m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-april-7-79755"
+    },
+    {
+      "chain": "AMC",
+      "number": 40,
+      "title": "On Swift Horses",
+      "rating": "R",
+      "distributor": "Sony",
+      "date": "2025-04-14",
+      "reportedRuntime": "2h3m",
+      "actualRuntime": "1h59m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-april-14-79944"
+    },
+    {
+      "chain": "AMC",
+      "number": 41,
+      "title": "The Legend Of Ochi",
+      "rating": "PG",
+      "distributor": "A24",
+      "date": "2025-04-21",
+      "reportedRuntime": "1h40m",
+      "actualRuntime": "1h35m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-april-21-80032"
+    },
+    {
+      "chain": "AMC",
+      "number": 42,
+      "title": "Fight or Flight",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2025-05-05",
+      "reportedRuntime": "1h43m",
+      "actualRuntime": "1h41m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-may-5-80092"
+    },
+    {
+      "chain": "AMC",
+      "number": 43,
+      "title": "Bring Her Back",
+      "rating": "R",
+      "distributor": "A24",
+      "date": "2025-05-19",
+      "reportedRuntime": "1h42m",
+      "actualRuntime": "1h39m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-may-19-80246"
+    },
+    {
+      "chain": "AMC",
+      "number": 44,
+      "title": "The Life of Chuck",
+      "rating": "R",
+      "distributor": "NEON",
+      "date": "2025-06-02",
+      "reportedRuntime": "1h48m",
+      "actualRuntime": "1h51m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-june-2-80379"
+    },
+    {
+      "chain": "AMC",
+      "number": 46,
+      "title": "Jurassic World Rebirth",
+      "rating": "PG-13",
+      "distributor": "Universal",
+      "date": "2025-06-23",
+      "reportedRuntime": "2h14m",
+      "actualRuntime": "2h14m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-june-23-80645"
+    },
+    {
+      "chain": "AMC",
+      "number": 47,
+      "title": "Oh, Hi!",
+      "rating": "R",
+      "distributor": "Sony",
+      "date": "2025-07-07",
+      "reportedRuntime": "1h33m",
+      "actualRuntime": "1h34m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-july-7-80639"
+    },
+    {
+      "chain": "AMC",
+      "number": 48,
+      "title": "The Home",
+      "rating": "R",
+      "distributor": null,
+      "date": "2025-07-21",
+      "reportedRuntime": "1h41m",
+      "actualRuntime": "1h37m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-july-21-80759"
+    },
+    {
+      "chain": "AMC",
+      "number": 49,
+      "title": "Sketch",
+      "rating": "PG",
+      "distributor": "Angel Studios",
+      "date": "2025-07-28",
+      "reportedRuntime": "1h41m",
+      "actualRuntime": "1h32m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-july-28-80760"
+    },
+    {
+      "chain": "AMC",
+      "number": 50,
+      "title": "East of Wall",
+      "rating": "R",
+      "distributor": "Sony",
+      "date": "2025-08-04",
+      "reportedRuntime": "1h40m",
+      "actualRuntime": "1h37m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-august-4-80912"
+    },
+    {
+      "chain": "AMC",
+      "number": 51,
+      "title": "Relay",
+      "rating": "R",
+      "distributor": "Bleecker Street",
+      "date": "2025-08-11",
+      "reportedRuntime": "1h54m",
+      "actualRuntime": "1h52m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-august-11-80915"
+    },
+    {
+      "chain": "AMC",
+      "number": 52,
+      "title": "Eden",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2025-08-18",
+      "reportedRuntime": "2h13m",
+      "actualRuntime": "2h9m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-august-18-80916"
+    },
+    {
+      "chain": "AMC",
+      "number": 53,
+      "title": "The Threesome",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2025-09-01",
+      "reportedRuntime": "1h49m",
+      "actualRuntime": "1h52m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-september-1-80917"
+    },
+    {
+      "chain": "AMC",
+      "number": 54,
+      "title": "Eleanor The Great",
+      "rating": "PG-13",
+      "distributor": "Sony",
+      "date": "2025-09-15",
+      "reportedRuntime": "1h49m",
+      "actualRuntime": "1h38m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-september-15-81251"
+    },
+    {
+      "chain": "AMC",
+      "number": 55,
+      "title": "Dead of Winter",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2025-09-22",
+      "reportedRuntime": "1h38m",
+      "actualRuntime": "1h38m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-september-22-81475"
+    },
+    {
+      "chain": "AMC",
+      "number": 56,
+      "title": "Bone Lake",
+      "rating": "R",
+      "distributor": "Bleecker Street",
+      "date": "2025-09-29",
+      "reportedRuntime": "1h31m",
+      "actualRuntime": "1h34m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-september-29-81441"
+    },
+    {
+      "chain": "AMC",
+      "number": 57,
+      "title": "Roofman",
+      "rating": "R",
+      "distributor": "Paramount",
+      "date": "2025-10-06",
+      "reportedRuntime": "2h5m",
+      "actualRuntime": "2h6m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-october-6-81531"
+    },
+    {
+      "chain": "AMC",
+      "number": 58,
+      "title": "The Mastermind",
+      "rating": "R",
+      "distributor": "Mubi",
+      "date": "2025-10-13",
+      "reportedRuntime": "1h52m",
+      "actualRuntime": "1h50m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-october-13-81442"
+    },
+    {
+      "chain": "AMC",
+      "number": 59,
+      "title": "Shelby Oaks",
+      "rating": "R",
+      "distributor": "Neon",
+      "date": "2025-10-20",
+      "reportedRuntime": "1h46m",
+      "actualRuntime": "1h42m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-october-20-81691"
+    },
+    {
+      "chain": "AMC",
+      "number": 60,
+      "title": "Christy",
+      "rating": null,
+      "distributor": null,
+      "date": "2025-10-27",
+      "reportedRuntime": "2h15m",
+      "actualRuntime": null,
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-october-27-81532"
+    },
+    {
+      "chain": "AMC",
+      "number": 61,
+      "title": "Eternity",
+      "rating": "PG-13",
+      "distributor": "A24",
+      "date": "2025-11-10",
+      "reportedRuntime": "1h56m",
+      "actualRuntime": "1h54m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-november-10-81692"
+    },
+    {
+      "chain": "AMC",
+      "number": 62,
+      "title": "Sisu:Road to Revenge",
+      "rating": "R",
+      "distributor": "Screen Gems",
+      "date": "2025-11-17",
+      "reportedRuntime": "1h26m",
+      "actualRuntime": "1h28m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-november-17-81693"
+    },
+    {
+      "chain": "AMC",
+      "number": 63,
+      "title": "Fackham Hall",
+      "rating": "R",
+      "distributor": "Bleecker Street",
+      "date": "2025-12-01",
+      "reportedRuntime": "1h41m",
+      "actualRuntime": "1h37m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-december-1-82155"
+    },
+    {
+      "chain": "AMC",
+      "number": 64,
+      "title": "Song Sung Blue",
+      "rating": "R",
+      "distributor": "Focus",
+      "date": "2025-12-15",
+      "reportedRuntime": "2h10m",
+      "actualRuntime": "2h13m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-december-15-82156"
+    },
+    {
+      "chain": "AMC",
+      "number": 65,
+      "title": "We Bury The Dead",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2025-12-22",
+      "reportedRuntime": "1h35m",
+      "actualRuntime": "1h34m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-december-22-82157"
+    },
+    {
+      "chain": "AMC",
+      "number": 66,
+      "title": "Primate",
+      "rating": "R",
+      "distributor": "Paramount",
+      "date": "2026-01-05",
+      "reportedRuntime": "1h26m",
+      "actualRuntime": "1h29m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-january-5-82402"
+    },
+    {
+      "chain": "AMC",
+      "number": 67,
+      "title": "Mercy",
+      "rating": "PG-13",
+      "distributor": "Amazon MGM",
+      "date": "2026-01-19",
+      "reportedRuntime": "1h40m",
+      "actualRuntime": "1h41m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-january-19-82489"
+    },
+    {
+      "chain": "AMC",
+      "number": 68,
+      "title": "Good Luck, Have Fun, Don't Die",
+      "rating": "R",
+      "distributor": "Briarcliff",
+      "date": "2026-01-26",
+      "reportedRuntime": "2h11m",
+      "actualRuntime": "2h14m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-january-26-82554"
+    },
+    {
+      "chain": "AMC",
+      "number": 69,
+      "title": "Dracula",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2026-02-02",
+      "reportedRuntime": "2h14m",
+      "actualRuntime": "2h9m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-february-2-82555"
+    },
+    {
+      "chain": "AMC",
+      "number": 70,
+      "title": "Nirvanna: The Band - The Show - The Movie -R",
+      "rating": null,
+      "distributor": "NEON",
+      "date": "2026-02-09",
+      "reportedRuntime": "1h44m",
+      "actualRuntime": "1h39m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-february-9-82676"
+    },
+    {
+      "chain": "AMC",
+      "number": 71,
+      "title": "How To Make A Killing",
+      "rating": "R",
+      "distributor": "A24",
+      "date": "2026-02-16",
+      "reportedRuntime": "1h50m",
+      "actualRuntime": "1h45m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-february-16-82701"
+    },
+    {
+      "chain": "AMC",
+      "number": 72,
+      "title": "Slanted",
+      "rating": "R",
+      "distributor": "Bleecker Street",
+      "date": "2026-03-09",
+      "reportedRuntime": "1h48m",
+      "actualRuntime": "1h42m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-march-9-83031"
+    },
+    {
+      "chain": "AMC",
+      "number": 73,
+      "title": "I Swear",
+      "rating": "R",
+      "distributor": "Sony",
+      "date": "2026-03-16",
+      "reportedRuntime": "2h5m",
+      "actualRuntime": "2h1m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-march-16-83105"
+    },
+    {
+      "chain": "AMC",
+      "number": 74,
+      "title": "They Will Kill You",
+      "rating": "R",
+      "distributor": "New Line Cinema",
+      "date": "2026-03-23",
+      "reportedRuntime": "1h37m",
+      "actualRuntime": "1h34m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-march-23-83047"
+    },
+    {
+      "chain": "AMC",
+      "number": 75,
+      "title": "Hunting Matthew Nichols",
+      "rating": "R",
+      "distributor": null,
+      "date": "Dropshock Pictures- March 30 2026",
+      "reportedRuntime": "1h33m",
+      "actualRuntime": "1h29m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-march-30-83175"
+    },
+    {
+      "chain": "AMC",
+      "number": 76,
+      "title": "Faces Of Death",
+      "rating": "R",
+      "distributor": "IFC",
+      "date": "2026-04-06",
+      "reportedRuntime": "1h46m",
+      "actualRuntime": "1h38m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-april-6-83187"
+    },
+    {
+      "chain": "AMC",
+      "number": 77,
+      "title": "Normal",
+      "rating": "R",
+      "distributor": "Magnolia Pictures",
+      "date": "2026-04-13",
+      "reportedRuntime": "1h34m",
+      "actualRuntime": "1h30m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-april-13-83300"
+    },
+    {
+      "chain": "AMC",
+      "number": 78,
+      "title": "Hokum",
+      "rating": "R",
+      "distributor": "NEON",
+      "date": "2026-04-20",
+      "reportedRuntime": "1h53m",
+      "actualRuntime": "1h41m",
+      "notes": [
+        "Scream Unseen"
+      ],
+      "url": "https://www.amctheatres.com/movies/amc-scream-unseen-april-20-83301"
+    },
+    {
+      "chain": "AMC",
+      "number": 79,
+      "title": "One Spoon Of Chocolate",
+      "rating": "R",
+      "distributor": "Variance Films",
+      "date": "2026-04-27",
+      "reportedRuntime": "1h54m",
+      "actualRuntime": "1h52m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-april-27-83445"
+    },
+    {
+      "chain": "AMC",
+      "number": 80,
+      "title": "The Sheep Detectives",
+      "rating": null,
+      "distributor": null,
+      "date": "2026-05-03",
+      "reportedRuntime": "1h55m",
+      "actualRuntime": null,
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-may-3-83446"
+    },
     {
       "chain": "AMC",
       "number": 81,
@@ -93,6 +1041,875 @@
       "reportedRuntime": "1h46m",
       "actualRuntime": "1h43m",
       "url": "https://www.amctheatres.com/movies/amc-screen-unseen-july-20-84361"
+    },
+    {
+      "chain": "Regal",
+      "number": 1,
+      "title": "The Greatest Beer Run Ever",
+      "rating": null,
+      "distributor": "Apple",
+      "date": "2022-09-26",
+      "reportedRuntime": "2h20m",
+      "actualRuntime": "2h6m"
+    },
+    {
+      "chain": "Regal",
+      "number": 2,
+      "title": "Spirited",
+      "rating": null,
+      "distributor": "Apple",
+      "date": "2022-11-07",
+      "reportedRuntime": "2h31m",
+      "actualRuntime": "2h7m"
+    },
+    {
+      "chain": "Regal",
+      "number": 3,
+      "title": "Missing",
+      "rating": null,
+      "distributor": "Sony",
+      "date": "2023-01-09",
+      "reportedRuntime": "2h10m",
+      "actualRuntime": "1h51m"
+    },
+    {
+      "chain": "Regal",
+      "number": 4,
+      "title": "Champions",
+      "rating": null,
+      "distributor": "Universal",
+      "date": "2023-02-27",
+      "reportedRuntime": "2h",
+      "actualRuntime": "2h4m"
+    },
+    {
+      "chain": "Regal",
+      "number": 5,
+      "title": "Paint",
+      "rating": null,
+      "distributor": "IFC Films",
+      "date": "2023-03-20",
+      "reportedRuntime": "1h42m",
+      "actualRuntime": "1h36m"
+    },
+    {
+      "chain": "Regal",
+      "number": 6,
+      "title": "Mafia Mamma",
+      "rating": null,
+      "distributor": "Bleecker Street",
+      "date": "2023-04-03",
+      "reportedRuntime": "1h51m",
+      "actualRuntime": "1h41m"
+    },
+    {
+      "chain": "Regal",
+      "number": 7,
+      "title": "Sisu",
+      "rating": null,
+      "distributor": "Lionsgate/Sony",
+      "date": "2023-04-17",
+      "reportedRuntime": "1h46",
+      "actualRuntime": "1h31m"
+    },
+    {
+      "chain": "Regal",
+      "number": 8,
+      "title": "Hypnotic",
+      "rating": null,
+      "distributor": "Ketchup Entertainment",
+      "date": "2023-05-01",
+      "reportedRuntime": "1h44h",
+      "actualRuntime": "1h33m"
+    },
+    {
+      "chain": "Regal",
+      "number": 9,
+      "title": "Kandahar",
+      "rating": null,
+      "distributor": "Open Road",
+      "date": "2023-05-15",
+      "reportedRuntime": "1h59m",
+      "actualRuntime": "2h"
+    },
+    {
+      "chain": "Regal",
+      "number": 10,
+      "title": "Ruby Gillman, Teenage Kraken",
+      "rating": null,
+      "distributor": "Universal",
+      "date": "2023-06-19",
+      "reportedRuntime": "1h45m",
+      "actualRuntime": "1h31m"
+    },
+    {
+      "chain": "Regal",
+      "number": 11,
+      "title": "Theater Camp",
+      "rating": null,
+      "distributor": "Searchlight",
+      "date": "2023-06-26",
+      "reportedRuntime": "1h44m",
+      "actualRuntime": "1h31m"
+    },
+    {
+      "chain": "Regal",
+      "number": 12,
+      "title": "Talk To Me",
+      "rating": null,
+      "distributor": "A24",
+      "date": "2023-07-10",
+      "reportedRuntime": "1h44m",
+      "actualRuntime": "1h35m",
+      "url": "https://www.reddit.com/r/RegalUnlimited/comments/15bydmn/non_spoiler_thread_for_talk_to_me/"
+    },
+    {
+      "chain": "Regal",
+      "number": 13,
+      "title": "Gran Turismo",
+      "rating": null,
+      "distributor": "PlayStation Productions/Sony",
+      "date": "2023-07-24",
+      "reportedRuntime": "2h24m",
+      "actualRuntime": "2h15m",
+      "url": "https://www.reddit.com/r/RegalUnlimited/comments/162dqhd/spoiler_free_thread_for_gran_turismo/"
+    },
+    {
+      "chain": "Regal",
+      "number": 14,
+      "title": "Retribution",
+      "rating": null,
+      "distributor": "StudioCanal/Lionsgate",
+      "date": "2023-08-14",
+      "reportedRuntime": "1h42m",
+      "actualRuntime": "1h30m",
+      "url": "https://www.reddit.com/r/RegalUnlimited/comments/162drx9/spoiler_free_thread_for_retribution/"
+    },
+    {
+      "chain": "Regal",
+      "number": 15,
+      "title": "It Lives Inside",
+      "rating": null,
+      "distributor": "Neon",
+      "date": "2023-09-04",
+      "reportedRuntime": "1h48m",
+      "actualRuntime": "1h39m"
+    },
+    {
+      "chain": "Regal",
+      "number": 16,
+      "title": "Dumb Money",
+      "rating": null,
+      "distributor": "Sony",
+      "date": "2023-09-18",
+      "reportedRuntime": "1h54m",
+      "actualRuntime": "1h44m",
+      "url": "https://www.reddit.com/r/RegalUnlimited/comments/16vwns5/spoiler_free_thread_for_dumb_money/"
+    },
+    {
+      "chain": "Regal",
+      "number": 17,
+      "title": "Freelance",
+      "rating": null,
+      "distributor": "Relativity Media",
+      "date": "2023-10-09",
+      "reportedRuntime": "1h57m",
+      "actualRuntime": "1h49m"
+    },
+    {
+      "chain": "Regal",
+      "number": 18,
+      "title": "It's A Wonderful Knife",
+      "rating": null,
+      "distributor": "RLJE Films",
+      "date": "2023-10-23",
+      "reportedRuntime": "1h35m",
+      "actualRuntime": "1h27m",
+      "url": "https://www.reddit.com/r/RegalUnlimited/s/39Ivsn8B2Y"
+    },
+    {
+      "chain": "Regal",
+      "number": 19,
+      "title": "Next Goal Wins",
+      "rating": null,
+      "distributor": "Searchlight",
+      "date": "2023-11-06",
+      "reportedRuntime": "1h44m",
+      "actualRuntime": "1h44m",
+      "url": "https://www.reddit.com/r/RegalUnlimited/comments/17x3qov/non_spoiler_thread_for_next_goal_wins/"
+    },
+    {
+      "chain": "Regal",
+      "number": 20,
+      "title": "American Fiction",
+      "rating": null,
+      "distributor": "Amazon MGM",
+      "date": "2023-11-27",
+      "reportedRuntime": "2h4m",
+      "actualRuntime": "1h57m"
+    },
+    {
+      "chain": "Regal",
+      "number": 21,
+      "title": "The Boys In The Boat",
+      "rating": null,
+      "distributor": "Amazon MGM",
+      "date": "2023-12-11",
+      "reportedRuntime": "2h11m",
+      "actualRuntime": "2h4m"
+    },
+    {
+      "chain": "Regal",
+      "number": 22,
+      "title": "Founders Day",
+      "rating": null,
+      "distributor": null,
+      "date": "Dark Sky Films- Jan 01 2024",
+      "reportedRuntime": "1h57m",
+      "actualRuntime": "1h46m"
+    },
+    {
+      "chain": "Regal",
+      "number": 23,
+      "title": "Origin",
+      "rating": null,
+      "distributor": "Neon",
+      "date": "2024-01-08",
+      "reportedRuntime": "2h29m",
+      "actualRuntime": "2h21m"
+    },
+    {
+      "chain": "Regal",
+      "number": 24,
+      "title": "Land Of Bad",
+      "rating": null,
+      "distributor": "The Avenue",
+      "date": "2024-01-22",
+      "reportedRuntime": "1h58m",
+      "actualRuntime": "1h50m",
+      "url": "https://www.reddit.com/r/RegalUnlimited/comments/1ari4d1/spoiler_free_thread_for_land_of_bad/"
+    },
+    {
+      "chain": "Regal",
+      "number": 25,
+      "title": "Lisa Frankenstein",
+      "rating": null,
+      "distributor": null,
+      "date": "Focus/Universal- Feb 05 2024",
+      "reportedRuntime": "1h51m",
+      "actualRuntime": "1h41m",
+      "url": "https://www.reddit.com/r/RegalUnlimited/comments/1anhjk3/spoiler_free_thread_for_lisa_frankenstein/"
+    },
+    {
+      "chain": "Regal",
+      "number": 26,
+      "title": "Ordinary Angels",
+      "rating": null,
+      "distributor": "Lionsgate",
+      "date": "2024-02-19",
+      "reportedRuntime": "2h1m",
+      "actualRuntime": "1h56m",
+      "url": "https://www.reddit.com/r/RegalUnlimited/comments/1ayfood/spoiler_free_thread_for_ordinary_angels/"
+    },
+    {
+      "chain": "Regal",
+      "number": 27,
+      "title": "One Life",
+      "rating": null,
+      "distributor": "Bleecker Street",
+      "date": "2024-03-04",
+      "reportedRuntime": "1h57m",
+      "actualRuntime": "1h50m"
+    },
+    {
+      "chain": "Regal",
+      "number": 28,
+      "title": "Arthur The King",
+      "rating": null,
+      "distributor": "Lionsgate",
+      "date": "2024-03-11",
+      "reportedRuntime": "1h55m",
+      "actualRuntime": "1h30m"
+    },
+    {
+      "chain": "Regal",
+      "number": 29,
+      "title": "Wicked Little Letters",
+      "rating": null,
+      "distributor": "Sony",
+      "date": "2024-03-18",
+      "reportedRuntime": "1h52m",
+      "actualRuntime": "1h42m"
+    },
+    {
+      "chain": "Regal",
+      "number": 30,
+      "title": "Sting",
+      "rating": null,
+      "distributor": "Well Go USA",
+      "date": "2024-03-25",
+      "reportedRuntime": "1h42m",
+      "actualRuntime": "1h31m"
+    },
+    {
+      "chain": "Regal",
+      "number": 31,
+      "title": "The Long Game",
+      "rating": null,
+      "distributor": "Mucho Más Media",
+      "date": "2024-04-08",
+      "reportedRuntime": "2h0m",
+      "actualRuntime": "1h52m"
+    },
+    {
+      "chain": "Regal",
+      "number": 32,
+      "title": "Spy X Family: White",
+      "rating": null,
+      "distributor": null,
+      "date": "Crunchyroll/Sony- Apr 15 2024",
+      "reportedRuntime": "1h57m",
+      "actualRuntime": "1h50m"
+    },
+    {
+      "chain": "Regal",
+      "number": 33,
+      "title": "Boy Kills World",
+      "rating": null,
+      "distributor": "Lionsgate",
+      "date": "2024-04-22",
+      "reportedRuntime": "1h59m",
+      "actualRuntime": "1h51m"
+    },
+    {
+      "chain": "Regal",
+      "number": 34,
+      "title": "Babes",
+      "rating": null,
+      "distributor": "NEON",
+      "date": "2024-05-13",
+      "reportedRuntime": "1h50m",
+      "actualRuntime": "1h49m"
+    },
+    {
+      "chain": "Regal",
+      "number": 35,
+      "title": "Ezra",
+      "rating": null,
+      "distributor": "Bleecker Street",
+      "date": "2024-05-20",
+      "reportedRuntime": "1h50m",
+      "actualRuntime": "1h40m"
+    },
+    {
+      "chain": "Regal",
+      "number": 36,
+      "title": "The Bikeriders",
+      "rating": null,
+      "distributor": "Focus",
+      "date": "2024-06-17",
+      "reportedRuntime": "2h3m",
+      "actualRuntime": "1h56m"
+    },
+    {
+      "chain": "Regal",
+      "number": 37,
+      "title": "Fly Me To The Moon",
+      "rating": null,
+      "distributor": "Apple",
+      "date": "2024-07-01",
+      "reportedRuntime": "2h22m",
+      "actualRuntime": "2h12m"
+    },
+    {
+      "chain": "Regal",
+      "number": 38,
+      "title": "Sing Sing",
+      "rating": null,
+      "distributor": "A24",
+      "date": "2024-07-15",
+      "reportedRuntime": "1h53m",
+      "actualRuntime": "1h47m"
+    },
+    {
+      "chain": "Regal",
+      "number": 39,
+      "title": "My Old Ass",
+      "rating": null,
+      "distributor": "MGM",
+      "date": "2024-09-09",
+      "reportedRuntime": "1h39m",
+      "actualRuntime": "1h28m"
+    },
+    {
+      "chain": "Regal",
+      "number": 40,
+      "title": "White Bird",
+      "rating": null,
+      "distributor": "Lionsgate",
+      "date": "2024-09-30",
+      "reportedRuntime": "2h11m",
+      "actualRuntime": "2h"
+    },
+    {
+      "chain": "Regal",
+      "number": 41,
+      "title": "Your Monster",
+      "rating": null,
+      "distributor": "Vertical",
+      "date": "2024-10-21",
+      "reportedRuntime": "1h53m",
+      "actualRuntime": "1h42m"
+    },
+    {
+      "chain": "Regal",
+      "number": 42,
+      "title": "Gladiator II",
+      "rating": null,
+      "distributor": "Paramount",
+      "date": "2024-11-18",
+      "reportedRuntime": "2h34m",
+      "actualRuntime": "2h28m"
+    },
+    {
+      "chain": "Regal",
+      "number": 43,
+      "title": "The Order",
+      "rating": null,
+      "distributor": "Vertical",
+      "date": "2024-12-02",
+      "reportedRuntime": "2h2m",
+      "actualRuntime": "1h56m"
+    },
+    {
+      "chain": "Regal",
+      "number": 44,
+      "title": "September 5",
+      "rating": null,
+      "distributor": "Paramount",
+      "date": "2024-12-09",
+      "reportedRuntime": "1h45m",
+      "actualRuntime": "1h35m"
+    },
+    {
+      "chain": "Regal",
+      "number": 45,
+      "title": "The Fire Inside",
+      "rating": null,
+      "distributor": "MGM",
+      "date": "2024-12-16",
+      "reportedRuntime": "1h57m",
+      "actualRuntime": "1h49m"
+    },
+    {
+      "chain": "Regal",
+      "number": 46,
+      "title": "Better Man",
+      "rating": "R",
+      "distributor": "Paramount",
+      "date": "2025-01-06",
+      "reportedRuntime": "2h24m",
+      "actualRuntime": "2h15m"
+    },
+    {
+      "chain": "Regal",
+      "number": 47,
+      "title": "Companion",
+      "rating": "R",
+      "distributor": "Warner Bros.",
+      "date": "2025-01-27",
+      "reportedRuntime": "1h44m",
+      "actualRuntime": "1h37m"
+    },
+    {
+      "chain": "Regal",
+      "number": 48,
+      "title": "Last Breath",
+      "rating": "PG-13",
+      "distributor": "Focus Features",
+      "date": "2025-02-24",
+      "reportedRuntime": "1h41m",
+      "actualRuntime": "1h33m"
+    },
+    {
+      "chain": "Regal",
+      "number": 49,
+      "title": "Novocaine",
+      "rating": "R",
+      "distributor": "Paramount",
+      "date": "2025-03-03",
+      "reportedRuntime": "1h58m",
+      "actualRuntime": null
+    },
+    {
+      "chain": "Regal",
+      "number": 50,
+      "title": "Drop",
+      "rating": "PG-13",
+      "distributor": "Universal",
+      "date": "2025-04-07",
+      "reportedRuntime": "1h44m",
+      "actualRuntime": "1h35m"
+    },
+    {
+      "chain": "Regal",
+      "number": 51,
+      "title": "The Legend of Ochi",
+      "rating": "PG",
+      "distributor": "A24",
+      "date": "2025-04-21",
+      "reportedRuntime": "1h41m",
+      "actualRuntime": "1h35m"
+    },
+    {
+      "chain": "Regal",
+      "number": 52,
+      "title": "Fight or Flight",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2025-05-05",
+      "reportedRuntime": "1h51m",
+      "actualRuntime": "1h41m"
+    },
+    {
+      "chain": "Regal",
+      "number": 53,
+      "title": "Bring Her Back",
+      "rating": "R",
+      "distributor": "A24",
+      "date": "2025-05-19",
+      "reportedRuntime": "1h56m",
+      "actualRuntime": "1h39m"
+    },
+    {
+      "chain": "Regal",
+      "number": 54,
+      "title": "Dangerous Animals",
+      "rating": "R",
+      "distributor": "IFC/Shudder",
+      "date": "2025-05-26",
+      "reportedRuntime": "1h45m",
+      "actualRuntime": "1h37m"
+    },
+    {
+      "chain": "Regal",
+      "number": 55,
+      "title": "Life of Chuck",
+      "rating": "R",
+      "distributor": null,
+      "date": "2025-06-02",
+      "reportedRuntime": "1h59m",
+      "actualRuntime": "1h51m"
+    },
+    {
+      "chain": "Regal",
+      "number": 56,
+      "title": "Jurassic World Rebirth",
+      "rating": "PG-13",
+      "distributor": "Universal",
+      "date": "2025-06-23",
+      "reportedRuntime": "2h20m",
+      "actualRuntime": "2h14m"
+    },
+    {
+      "chain": "Regal",
+      "number": 57,
+      "title": "Oh, Hi!",
+      "rating": "R",
+      "distributor": "Sony",
+      "date": "2025-07-07",
+      "reportedRuntime": "1h40",
+      "actualRuntime": "1h34m"
+    },
+    {
+      "chain": "Regal",
+      "number": 58,
+      "title": "Sketch",
+      "rating": "PG",
+      "distributor": "Angel Studios",
+      "date": "2025-07-28",
+      "reportedRuntime": "1h45",
+      "actualRuntime": "1h32m"
+    },
+    {
+      "chain": "Regal",
+      "number": 59,
+      "title": "Relay",
+      "rating": "R",
+      "distributor": "Bleecker Street",
+      "date": "2025-08-11",
+      "reportedRuntime": "2h",
+      "actualRuntime": "1h52m"
+    },
+    {
+      "chain": "Regal",
+      "number": 60,
+      "title": "Eden",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2025-08-18",
+      "reportedRuntime": "2h15m",
+      "actualRuntime": "2h9m"
+    },
+    {
+      "chain": "Regal",
+      "number": 61,
+      "title": "The Threesome",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2025-09-01",
+      "reportedRuntime": "1h52m",
+      "actualRuntime": null
+    },
+    {
+      "chain": "Regal",
+      "number": 62,
+      "title": "Dead of Winter",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2025-09-22",
+      "reportedRuntime": "1h56m",
+      "actualRuntime": "1h38m"
+    },
+    {
+      "chain": "Regal",
+      "number": 63,
+      "title": "Nuremberg",
+      "rating": "PG-13",
+      "distributor": "Sony",
+      "date": "2025-09-29",
+      "reportedRuntime": "2h34m",
+      "actualRuntime": "2h28m"
+    },
+    {
+      "chain": "Regal",
+      "number": 64,
+      "title": "Roofman",
+      "rating": "R",
+      "distributor": "Paramount",
+      "date": "2025-10-06",
+      "reportedRuntime": "2h13m",
+      "actualRuntime": "2h6m"
+    },
+    {
+      "chain": "Regal",
+      "number": 65,
+      "title": "The Mastermind",
+      "rating": "R",
+      "distributor": "Mubi",
+      "date": "2025-10-13",
+      "reportedRuntime": "1h55m",
+      "actualRuntime": "1h50m"
+    },
+    {
+      "chain": "Regal",
+      "number": 66,
+      "title": "Christy",
+      "rating": "R",
+      "distributor": "Black Bear",
+      "date": "2025-10-27",
+      "reportedRuntime": "2h22m",
+      "actualRuntime": "2h15m"
+    },
+    {
+      "chain": "Regal",
+      "number": 67,
+      "title": "Eternity",
+      "rating": "PG-13",
+      "distributor": null,
+      "date": "2025-11-10",
+      "reportedRuntime": "1h59m",
+      "actualRuntime": null
+    },
+    {
+      "chain": "Regal",
+      "number": 68,
+      "title": "Sisu:Road to Revenge",
+      "rating": "R",
+      "distributor": "Screen Gems",
+      "date": "2025-11-17",
+      "reportedRuntime": "1h32m",
+      "actualRuntime": "1h28m"
+    },
+    {
+      "chain": "Regal",
+      "number": 70,
+      "title": "Klaus",
+      "rating": "PG",
+      "distributor": "Netflix",
+      "date": "2025-12-08",
+      "reportedRuntime": "1h42m",
+      "actualRuntime": "1h36m"
+    },
+    {
+      "chain": "Regal",
+      "number": 71,
+      "title": "Song Sung Blue",
+      "rating": "R",
+      "distributor": "Focus",
+      "date": "2025-12-15",
+      "reportedRuntime": "2h18m",
+      "actualRuntime": "2h13m"
+    },
+    {
+      "chain": "Regal",
+      "number": 72,
+      "title": "We Bury The Dead",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2025-12-22",
+      "reportedRuntime": "1h40m",
+      "actualRuntime": "1h34m"
+    },
+    {
+      "chain": "Regal",
+      "number": 73,
+      "title": "Primate",
+      "rating": "R",
+      "distributor": "Paramount",
+      "date": "2026-01-05",
+      "reportedRuntime": "1h24m",
+      "actualRuntime": "1h29m"
+    },
+    {
+      "chain": "Regal",
+      "number": 74,
+      "title": "Mercy",
+      "rating": "PG-13",
+      "distributor": "Amazon MGM",
+      "date": "2026-01-19",
+      "reportedRuntime": "1h46m",
+      "actualRuntime": "1h41m"
+    },
+    {
+      "chain": "Regal",
+      "number": 75,
+      "title": "Good Luck, Have Fun, Don't Die",
+      "rating": "R",
+      "distributor": "Briarcliff",
+      "date": "2026-01-26",
+      "reportedRuntime": "2h19m",
+      "actualRuntime": "2h14m"
+    },
+    {
+      "chain": "Regal",
+      "number": 76,
+      "title": "Dracula",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2026-02-02",
+      "reportedRuntime": "2h19m",
+      "actualRuntime": "2h9m"
+    },
+    {
+      "chain": "Regal",
+      "number": 77,
+      "title": "Nirvanna: The Band - The Show - The Movie",
+      "rating": "R",
+      "distributor": "NEON",
+      "date": "2026-02-09",
+      "reportedRuntime": "1h45m",
+      "actualRuntime": "1h39m"
+    },
+    {
+      "chain": "Regal",
+      "number": 78,
+      "title": "How To Make A Killing",
+      "rating": "R",
+      "distributor": "A24",
+      "date": "2026-02-16",
+      "reportedRuntime": "1h45m",
+      "actualRuntime": "1h45m"
+    },
+    {
+      "chain": "Regal",
+      "number": 79,
+      "title": "Slanted",
+      "rating": "R",
+      "distributor": "Bleecker Street",
+      "date": "2026-03-09",
+      "reportedRuntime": "1h47m",
+      "actualRuntime": "1h42m"
+    },
+    {
+      "chain": "Regal",
+      "number": 80,
+      "title": "Fantasy Life",
+      "rating": "R",
+      "distributor": "Greenwich",
+      "date": "2026-03-16",
+      "reportedRuntime": "1h37m",
+      "actualRuntime": null
+    },
+    {
+      "chain": "Regal",
+      "number": 81,
+      "title": "They Will Kill You",
+      "rating": "R",
+      "distributor": "New Line Cinema",
+      "date": "2026-03-23",
+      "reportedRuntime": "1h38m",
+      "actualRuntime": "1h34m"
+    },
+    {
+      "chain": "Regal",
+      "number": 82,
+      "title": "Hunting Matthew Nichols",
+      "rating": "R",
+      "distributor": "Dropshock Pictures",
+      "date": "2026-03-30",
+      "reportedRuntime": "1h41m",
+      "actualRuntime": null
+    },
+    {
+      "chain": "Regal",
+      "number": 83,
+      "title": "I Swear",
+      "rating": "R",
+      "distributor": "Sony",
+      "date": "2026-04-06",
+      "reportedRuntime": "2h3m",
+      "actualRuntime": "2h1m"
+    },
+    {
+      "chain": "Regal",
+      "number": 84,
+      "title": "Fuze",
+      "rating": "R",
+      "distributor": "Roadside Attractions",
+      "date": "2026-04-13",
+      "reportedRuntime": "1h50m",
+      "actualRuntime": "1h37m"
+    },
+    {
+      "chain": "Regal",
+      "number": 85,
+      "title": "Over Your Dead Body",
+      "rating": "R",
+      "distributor": "IFC",
+      "date": "2026-04-20",
+      "reportedRuntime": "1h50m",
+      "actualRuntime": "1h45m"
+    },
+    {
+      "chain": "Regal",
+      "number": 86,
+      "title": "Hokum",
+      "rating": "R",
+      "distributor": "NEON",
+      "date": "2026-04-20",
+      "reportedRuntime": "1h50m",
+      "actualRuntime": "1h41m"
+    },
+    {
+      "chain": "Regal",
+      "number": 87,
+      "title": "One Spoon Of Chocolate",
+      "rating": "R",
+      "distributor": "Variance Films",
+      "date": "2026-04-27",
+      "reportedRuntime": "1h58m",
+      "actualRuntime": "1h52m"
     },
     {
       "chain": "Regal",
