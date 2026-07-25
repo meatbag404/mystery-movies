@@ -1,13 +1,15 @@
 name: Update mystery movies
 
-# Runs after the Monday-night mystery screenings, giving the mods time to
-# reveal the film. Times are UTC: 06:00 UTC Tue ≈ 10-11 PM Mon US Pacific.
-# A second Wed run catches late reveals. The job is idempotent — an off-week
-# with no new movie simply changes nothing and commits nothing.
+# MANUAL-ONLY for now. Reddit blocks automated/anonymous API access (bot WAF +
+# a required API registration), so the scheduled cloud run is DISABLED — it
+# would just fail every week with no Reddit credentials. See the README: the
+# current refresh path is browser-assisted (a logged-in human browser). To turn
+# on the automated schedule, complete Reddit's API registration, add the
+# REDDIT_* secrets, then restore the `schedule:` block below:
+#   schedule:
+#     - cron: '0 6 * * 2'   # Tuesday 06:00 UTC (Monday night US)
+#     - cron: '0 6 * * 3'   # Wednesday 06:00 UTC (catch-up)
 on:
-  schedule:
-    - cron: '0 6 * * 2'   # Tuesday 06:00 UTC (Monday night US)
-    - cron: '0 6 * * 3'   # Wednesday 06:00 UTC (catch-up)
   workflow_dispatch:
     inputs:
       mode:

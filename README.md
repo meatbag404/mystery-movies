@@ -1,11 +1,21 @@
 # mystery-movies
 
-Automatically extracts the **identified** films from the two Reddit megathreads that track theater "mystery screenings", and keeps a versioned data file up to date every week.
+Extracts the **identified** films from the two Reddit megathreads that track theater "mystery screenings" into a versioned data file (`data/mystery-movies.json`).
 
 - **AMC Screen Unseen** (r/AMCsAList)
 - **Regal Monday Mystery Movie** (r/RegalUnlimited)
 
-Films that have not been revealed yet (placeholders still marked "Rated R / Revealed As: TBD") are skipped. When a new film is revealed, it is added to `data/mystery-movies.json` and a line is appended to `data/changelog.txt`.
+Films that have not been revealed yet (placeholders still marked "Rated R / Revealed As: TBD") are skipped.
+
+## Current status: manual / browser-assisted refresh
+
+Reddit now blocks automated access hard: the anonymous JSON endpoint returns a bot-wall ("blocked by network security") even from a residential IP or a real (but automation-launched) browser, and creating an API app requires completing Reddit's API registration (Responsible Builder Policy). Empirically, the only thing that reads these threads reliably is a **genuine, logged-in human browser**.
+
+So today `data/mystery-movies.json` is refreshed **manually** — the fastest way is to ask Claude Code (which can drive your real logged-in Chrome) to "refresh the mystery-movies data," which re-pulls both threads and commits the update. Screenings are only ~biweekly, so this is a minute of effort now and then.
+
+**To upgrade to full automation later** (the code and GitHub Actions workflow are already here, just dormant): complete Reddit's API registration at <https://www.reddit.com/wiki/api/>, create a `script` app, add the `REDDIT_CLIENT_ID` / `REDDIT_CLIENT_SECRET` / `REDDIT_USER_AGENT` repo secrets, and restore the `schedule:` block in `.github/workflows/update-mystery-movies.yml`. Everything below documents that automated path.
+
+---
 
 ## How it works
 
