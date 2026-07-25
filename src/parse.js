@@ -103,10 +103,16 @@ function parseThread(selftext, meta = {}) {
     if (!current) return;
     const details = parseDetails(current.bullets);
     const descriptor = current.headerText.replace(/^\d+\.\s*/, '').trim();
-    const parts = descriptor.split(/\s+-\s+/).map((p) => p.trim()).filter(Boolean);
 
     let date = null, distributor = null, rating = null;
-    if (parts.length) date = toISODate(parts.pop());
+    // Pull the trailing date off first. It is sometimes glued to the distributor
+    // with no space ("Crunchyroll/Sony- Apr 15 2024"), which a plain " - " split
+    // would miss, leaving the date mashed into the distributor field.
+    const dm = descriptor.match(/\s*-?\s*([A-Za-z]{3,9}\.?\s+\d{1,2}(?:st|nd|rd|th)?\s+\d{4})\s*$/);
+    let rest = descriptor;
+    if (dm) { date = toISODate(dm[1]); rest = descriptor.slice(0, dm.index).trim(); }
+
+    const parts = rest.split(/\s+-\s+/).map((p) => p.trim()).filter(Boolean);
     // Placeholder headers carry a bare runtime segment where a real entry has a
     // distributor, e.g. "Rated R - 1h47m - July 27 2026". Drop those so they
     // pollute neither the distributor nor the title.

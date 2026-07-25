@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-07-25T20:50:52.205Z",
+  "generatedAt": "2026-07-25T20:53:05.943Z",
   "sources": [
     {
       "chain": "AMC",
-      "threadId": "1e4nbh7"
+      "id": "1e4nbh7"
     },
     {
       "chain": "AMC",
-      "threadId": "1hatoyh"
+      "id": "1hatoyh"
     },
     {
       "chain": "AMC",
-      "threadId": "1ldli7x"
+      "id": "1ldli7x"
     },
     {
       "chain": "AMC",
-      "threadId": "1ocy90r"
+      "id": "1ocy90r"
     },
     {
       "chain": "AMC",
-      "threadId": "1sz6wre"
+      "id": "1sz6wre"
     },
     {
       "chain": "AMC",
-      "threadId": "1v438bg"
+      "id": "1v438bg"
     },
     {
       "chain": "Regal",
-      "threadId": "1cy5f7u"
+      "id": "1cy5f7u"
     },
     {
       "chain": "Regal",
-      "threadId": "1hg54fv"
+      "id": "1hg54fv"
     },
     {
       "chain": "Regal",
-      "threadId": "1laxxeh"
+      "id": "1laxxeh"
     },
     {
       "chain": "Regal",
-      "threadId": "1pe2otx"
+      "id": "1pe2otx"
     },
     {
       "chain": "Regal",
-      "threadId": "1sypso4"
+      "id": "1sypso4"
     },
     {
       "chain": "Regal",
-      "threadId": "1uuy1c0"
+      "id": "1uuy1c0"
     }
   ],
   "screenings": [
@@ -197,8 +197,8 @@
       "number": 13,
       "title": "Spy X Family: White",
       "rating": "PG-13",
-      "distributor": null,
-      "date": "Crunchyroll/Sony- Apr 15 2024",
+      "distributor": "Crunchyroll/Sony",
+      "date": "2024-04-15",
       "reportedRuntime": "2h3m",
       "actualRuntime": "1h50m",
       "url": "https://www.amctheatres.com/movies/amc-screen-unseen-april-15-76440"
@@ -895,8 +895,8 @@
       "number": 75,
       "title": "Hunting Matthew Nichols",
       "rating": "R",
-      "distributor": null,
-      "date": "Dropshock Pictures- March 30 2026",
+      "distributor": "Dropshock Pictures",
+      "date": "2026-03-30",
       "reportedRuntime": "1h33m",
       "actualRuntime": "1h29m",
       "notes": [
@@ -1263,8 +1263,8 @@
       "number": 22,
       "title": "Founders Day",
       "rating": null,
-      "distributor": null,
-      "date": "Dark Sky Films- Jan 01 2024",
+      "distributor": "Dark Sky Films",
+      "date": "2024-01-01",
       "reportedRuntime": "1h57m",
       "actualRuntime": "1h46m"
     },
@@ -1294,8 +1294,8 @@
       "number": 25,
       "title": "Lisa Frankenstein",
       "rating": null,
-      "distributor": null,
-      "date": "Focus/Universal- Feb 05 2024",
+      "distributor": "Focus/Universal",
+      "date": "2024-02-05",
       "reportedRuntime": "1h51m",
       "actualRuntime": "1h41m",
       "url": "https://www.reddit.com/r/RegalUnlimited/comments/1anhjk3/spoiler_free_thread_for_lisa_frankenstein/"
@@ -1366,8 +1366,8 @@
       "number": 32,
       "title": "Spy X Family: White",
       "rating": null,
-      "distributor": null,
-      "date": "Crunchyroll/Sony- Apr 15 2024",
+      "distributor": "Crunchyroll/Sony",
+      "date": "2024-04-15",
       "reportedRuntime": "1h57m",
       "actualRuntime": "1h50m"
     },
