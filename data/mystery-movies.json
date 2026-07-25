@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-07-25T18:22:13.623Z",
+  "sources": [
+    {
+      "chain": "AMC",
+      "subreddit": "AMCsAList",
+      "threadId": "1v438bg",
+      "title": "AMC Screen Unseen Megathread - July 27 2026",
+      "url": "https://www.reddit.com/r/AMCsAList/comments/1v438bg/amc_screen_unseen_megathread_july_27_2026/"
+    },
+    {
+      "chain": "Regal",
+      "subreddit": "RegalUnlimited",
+      "threadId": "1uuy1c0",
+      "title": "Monday Mystery Movie Megathread - July 27 2026",
+      "url": "https://www.reddit.com/r/RegalUnlimited/comments/1uuy1c0/monday_mystery_movie_megathread_july_27_2026/"
+    }
+  ],
+  "screenings": [
+    {
+      "chain": "AMC",
+      "number": 81,
+      "title": "The Wizard of the Kremlin",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2026-05-04",
+      "reportedRuntime": "2h22m",
+      "actualRuntime": "2h16m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-may-4-83506"
+    },
+    {
+      "chain": "AMC",
+      "number": 82,
+      "title": "Tuner",
+      "rating": "R",
+      "distributor": "Black Bear",
+      "date": "2026-05-11",
+      "reportedRuntime": "1h52m",
+      "actualRuntime": "1h49m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-may-11-83613"
+    },
+    {
+      "chain": "AMC",
+      "number": 83,
+      "title": "The Furious",
+      "rating": "R",
+      "distributor": "Lionsgate",
+      "date": "2026-06-01",
+      "reportedRuntime": "1h57m",
+      "actualRuntime": "1h53m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-june-1-83881"
+    },
+    {
+      "chain": "AMC",
+      "number": 84,
+      "title": "Lucky Strike",
+      "rating": "R",
+      "distributor": "Roadside",
+      "date": "2026-06-15",
+      "reportedRuntime": "1h48m",
+      "actualRuntime": "1h42m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-june-15-84103"
+    },
+    {
+      "chain": "AMC",
+      "number": 85,
+      "title": "Young Washington",
+      "rating": "PG-13",
+      "distributor": "Angel Studios",
+      "date": "2026-06-22",
+      "reportedRuntime": "2h10m",
+      "actualRuntime": "2h5m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-june-22-84155"
+    },
+    {
+      "chain": "AMC",
+      "number": 86,
+      "title": "Gail Daughtry and the Celebrity Sex Pass",
+      "rating": "R",
+      "distributor": "Sony",
+      "date": "2026-06-29",
+      "reportedRuntime": "1h37m",
+      "actualRuntime": "1h33m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-june-29-84153"
+    },
+    {
+      "chain": "AMC",
+      "number": 87,
+      "title": "Motor City",
+      "rating": "R",
+      "distributor": "IFC",
+      "date": "2026-07-20",
+      "reportedRuntime": "1h46m",
+      "actualRuntime": "1h43m",
+      "url": "https://www.amctheatres.com/movies/amc-screen-unseen-july-20-84361"
+    },
+    {
+      "chain": "Regal",
+      "number": 88,
+      "title": "The Sheep Detectives",
+      "rating": "PG",
+      "distributor": "Amazon MGM",
+      "date": "2026-05-03",
+      "reportedRuntime": "2h4m",
+      "actualRuntime": "1h50m",
+      "notes": [
+        "Sunday Mystery Movie"
+      ]
+    },
+    {
+      "chain": "Regal",
+      "number": 89,
+      "title": "The Wizard Of The Kremlin",
+      "rating": "R",
+      "distributor": "Vertical",
+      "date": "2026-05-04",
+      "reportedRuntime": "2h29m",
+      "actualRuntime": "2h16m"
+    },
+    {
+      "chain": "Regal",
+      "number": 90,
+      "title": "Tuner",
+      "rating": "R",
+      "distributor": "Black Bear",
+      "date": "2026-05-11",
+      "reportedRuntime": "2h",
+      "actualRuntime": "1h49m"
+    },
+    {
+      "chain": "Regal",
+      "number": 91,
+      "title": "The Furious",
+      "rating": "R",
+      "distributor": "Lionsgate",
+      "date": "2026-06-01",
+      "reportedRuntime": "1h55m",
+      "actualRuntime": "1h53m"
+    },
+    {
+      "chain": "Regal",
+      "number": 92,
+      "title": "Gail Daughtry and the Celebrity Sex Pass",
+      "rating": "R",
+      "distributor": "Sony",
+      "date": "2026-06-29",
+      "reportedRuntime": "1h37m",
+      "actualRuntime": "1h33m"
+    }
+  ]
+}

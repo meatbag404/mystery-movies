@@ -1,0 +1,17 @@
+{
+  "name": "mystery-movies",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Extract identified AMC Screen Unseen / Regal Monday Mystery Movie screenings from Reddit megathreads.",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "update": "node src/extract.js",
+    "backfill": "node src/extract.js --backfill",
+    "dry-run": "node src/extract.js --dry-run",
+    "test": "node test/parse.test.js && node test/extract.test.js"
+  },
+  "license": "MIT"
+}

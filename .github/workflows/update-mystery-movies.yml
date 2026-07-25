@@ -1,0 +1,62 @@
+name: Update mystery movies
+
+# Runs after the Monday-night mystery screenings, giving the mods time to
+# reveal the film. Times are UTC: 06:00 UTC Tue ≈ 10-11 PM Mon US Pacific.
+# A second Wed run catches late reveals. The job is idempotent — an off-week
+# with no new movie simply changes nothing and commits nothing.
+on:
+  schedule:
+    - cron: '0 6 * * 2'   # Tuesday 06:00 UTC (Monday night US)
+    - cron: '0 6 * * 3'   # Wednesday 06:00 UTC (catch-up)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'update (default) or backfill (rebuild full history)'
+        required: false
+        default: 'update'
+        type: choice
+        options: [update, backfill]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-mystery-movies
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run tests
+        run: npm test
+
+      - name: Extract screenings
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+        run: |
+          if [ "${{ github.event.inputs.mode }}" = "backfill" ]; then
+            node src/extract.js --backfill
+          else
+            node src/extract.js
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data; then
+            echo "No changes to commit."
+          else
+            git add data
+            git commit -m "chore(data): update mystery movies ($(date -u +%Y-%m-%d))"
+            git push
+          fi
